@@ -26,32 +26,27 @@ namespace pds_atv
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Alunos alunos = new Alunos();
-            alunos.Show();
+            
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            Escolas escolas = new Escolas();
-            escolas.Show();
+            framePage.Source = new Uri("/Escolas.xaml", UriKind.Relative);
         }
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            Turmas turmas = new Turmas();
-            turmas.Show();
+            
         }
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-            Cursos cursos = new Cursos();
-            cursos.Show();
+            
         }
 
         private void Button_Click_4(object sender, RoutedEventArgs e)
         {
-            Relatorios relatorios = new Relatorios();
-            relatorios.Show();
+          
         }
     }
 }

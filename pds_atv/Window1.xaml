@@ -8,15 +8,15 @@
         Title="Window1" Height="450" Width="800">
 
     <Border  BorderBrush="Black" BorderThickness="2">
-        <Grid Background="#342E1A">
+        <Grid >
 
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="153*"/>
                 <ColumnDefinition Width="247*"/>
             </Grid.ColumnDefinitions>
-            <Image Grid.Column="1" Source = "/Imagens/Chairs.png"  Stretch="Fill"/>
 
-            <Grid>
+
+            <Grid Background="#342E1A">
                     
                 <Grid.RowDefinitions>
                     <RowDefinition Height="*"/>
@@ -87,7 +87,7 @@
 
             </Grid>
 
-
+            <Frame x:Name="framePage" Grid.Column="1" NavigationUIVisibility="Hidden"/>
 
         </Grid>
     </Border>

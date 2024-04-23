@@ -10,14 +10,15 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace pds_atv
 {
     /// <summary>
-    /// Lógica interna para Escolas.xaml
+    /// Interação lógica para Escolas.xam
     /// </summary>
-    public partial class Escolas : Window
+    public partial class Escolas : Page
     {
         public Escolas()
         {
