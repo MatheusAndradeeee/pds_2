@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6oTJ3ORv6KHe8lTsoyxRtffwCC8fPuPzAXtJVo8SaDVkTQz0Lhvz59yM7llf78rcmNoeaI90WYaxFawY0FfMZg==",
+  "dgSpecHash": "/7ctlb0B7Gtu6+FqL19vK/3MpVi7Kmny66fjZvEeer6FytnKTcAtgVwFX+eODwdmqfqz8/vntj0SY07YZScoLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\2021102020080\\Desktop\\pds_2\\pds_atv\\pds_atv.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\2021102020080\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\2021102020080\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\2021102020080\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\2021102020080\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Matheus\\Desktop\\s\\pds_2\\pds_atv\\pds_atv.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -26,7 +26,7 @@ namespace pds_atv
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            
+            framePage.Source = new Uri("/Alunos.xaml", UriKind.Relative);
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
@@ -36,17 +36,17 @@ namespace pds_atv
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            
+            framePage.Source = new Uri("/Turmas.xaml", UriKind.Relative);
         }
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-            
+           
         }
 
         private void Button_Click_4(object sender, RoutedEventArgs e)
         {
-          
+            framePage.Source = new Uri("/Relatorios.xaml", UriKind.Relative);
         }
     }
 }
